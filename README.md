@@ -6,11 +6,10 @@
 	主板            技嘉 B85M-D3H v1.0 ( Lynx Point )
 	显卡            Nvidia Quadro K620 ( 2 GB / Nvidia )
 	内存            16 GB ( 威刚 DDR3 1600MHz )
-	声卡1           瑞昱 ALC892 @ 英特尔 Lynx Point HD Audio Controller
-	声卡2           Nvidia nForce2 ISA Bridge @ Nvidia High Definition Audio Controller
-	网卡            瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉
-	无线网卡1       瑞昱 RTL8188CUS 802.11n WLAN
-	无线网卡2       瑞昱 802.11ac NIC
+	声卡            Realtek ALC892 @ 英特尔 Lynx Point HD Audio Controller
+	有线网卡        Realtek RTL8168/8111/8112 Gigabit Ethernet Controller / 技嘉
+	无线网卡1       Realtek RTL8188CU Wireless LAN 802.11n USB 2.0 Network Adapter
+	无线网卡2       Realtek 8812BU Wireless LAN 802.11ac USB NIC
 
 -------------------------------------
 文件说明：
@@ -38,5 +37,4 @@
 	时间同步.reg ------- 同步win和mac的时间，但是BIOS时间会慢8小时
 
 -------------------------------------
-免责声明：
-此项目仅用于个人文件备份，因使用此项目文件造成的任何问题本人概不负责。
+免责声明：此项目仅用于个人文件备份，因使用此项目文件造成的任何问题本人概不负责。
